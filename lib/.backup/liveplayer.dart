@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'liveitem.dart';
+import 'movieitem.dart';
 import 'package:chewie/chewie.dart';
 import 'package:video_player/video_player.dart';
 import 'package:shared_preferences/shared_preferences.dart';

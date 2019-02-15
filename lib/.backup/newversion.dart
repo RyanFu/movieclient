@@ -1,6 +1,6 @@
 import 'dart:convert';
 import 'dart:io';
-import 'package:get_version/get_version.dart';
+//import 'package:get_version/get_version.dart';
 import 'package:dio/dio.dart';
 
 class NewVersion {
